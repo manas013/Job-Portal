@@ -6,6 +6,11 @@ A full-stack job portal built with **MongoDB, Express, React (Vite), and Node.js
 
 - Live site: https://job-portal-frontend-1sgl.onrender.com
 
+## Demo Accounts
+
+- Employer login: `employer@demo.com` / `demo123456`
+- Jobseeker login: `seeker@demo.com` / `demo123456`
+
 ---
 
 ## Features
