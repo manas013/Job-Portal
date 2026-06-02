@@ -2,6 +2,12 @@
 
 A full-stack job portal built with **MongoDB, Express, React (Vite), and Node.js**.
 
+## Live Demo
+
+- Frontend: https://job-portal-frontend-1sgl.onrender.com
+- Backend API: https://job-portal-yyws.onrender.com
+- Health Check: https://job-portal-yyws.onrender.com/api/health
+
 ---
 
 ## Features
