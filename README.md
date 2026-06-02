@@ -1,4 +1,4 @@
-# Job Portal — MERN Stack
+# Job Portal — Full Stack
 
 A full-stack job portal built with **MongoDB, Express, React (Vite), and Node.js**.
 
